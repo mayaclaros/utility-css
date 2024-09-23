@@ -5,3 +5,12 @@
 .underline {
   text-decoration: underline;
 }
+
+.highlight {
+  background: yellow;
+  padding: 10px;
+}
+
+.bg-yellow {
+  background: yellow;
+}
